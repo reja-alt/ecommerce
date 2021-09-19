@@ -67,6 +67,22 @@ Thank you for considering contributing to the Laravel framework! The contributio
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
+## Admin Panel
+Email : sohidulislam@gmail.com
+
+Pass : admin
+
+## User One Dashboard 
+Email : sohidulislam@gmail.com
+
+Pass : sohidulislam
+
+## User Two Dashboard
+Email : sohidulislam353@gmail.com
+
+Pass : sohidulislam
+
+
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
