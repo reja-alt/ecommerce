@@ -67,6 +67,9 @@ Thank you for considering contributing to the Laravel framework! The contributio
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
+## Database Import
+Import ecommerce.sql file
+
 ## Admin Panel
 Email : sohidulislam@gmail.com
 
